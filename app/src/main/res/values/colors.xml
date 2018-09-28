@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0000b2</color>
+    <color name="colorPrimaryDark">#00004c</color>
+    <color name="colorAccent">#99ff</color>
+    <color name="background">#1919ff</color>
+    <color name="lemon_green">#99ff99</color>
+    <color name="score_display">#ffffff</color>
+</resources>

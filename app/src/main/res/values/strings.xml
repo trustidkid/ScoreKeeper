@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Table Tennis Score
+
+    </string>
+
+    <string name="team_a">Nigeria</string>
+    <string name="team_b">England</string>
+    <string name="let">Let:</string>
+    <string name="let_">Let</string>
+    <string name="foul">Foul:</string>
+    <string name="foul_">Foul</string>
+    <string name="_1_point">+1 point</string>
+    <string name="reset">reset</string>
+</resources>
